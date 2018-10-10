@@ -1,0 +1,22 @@
+{
+  "name": "continuous-integration-w9",
+  "version": "1.0.0",
+  "description": "Continuous Integration. Software Engineering (SC-T-303-HUGB), week 09 fall semester 2018",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stofiRU/Continuous-Integration-W9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stofiRU/Continuous-Integration-W9/issues"
+  },
+  "homepage": "https://github.com/stofiRU/Continuous-Integration-W9#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
