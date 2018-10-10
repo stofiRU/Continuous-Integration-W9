@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/stofiRU/Continuous-Integration-W9#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "express": "^4.16.3",
+    "jest": "^23.6.0",
+    "supertest": "^3.3.0"
   }
 }
